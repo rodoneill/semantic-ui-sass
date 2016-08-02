@@ -555,7 +555,7 @@
 }
 .ui.toggle.checkbox input:focus:checked ~ .box:before,
 .ui.toggle.checkbox input:focus:checked ~ label:before {
-  background-color: #0d71bb !important;
+  background-color: darken($checkbox-background-color, 5%) !important;
 }
 
 
