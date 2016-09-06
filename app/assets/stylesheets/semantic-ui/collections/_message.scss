@@ -361,8 +361,8 @@
 }
 .ui.orange.message {
   background-color: #FFEDDE;
-  color: #F2711C;
-  box-shadow: 0px 0px 0px 1px #F2711C inset, 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  color: $color-orange;
+  box-shadow: 0px 0px 0px 1px $color-orange inset, 0px 0px 0px 0px rgba(0, 0, 0, 0);
 }
 .ui.orange.message .header {
   color: #e7640d;
